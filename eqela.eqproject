@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# banzon_act2_oct8
+#
+
+projectname: banzon_act2_oct8
+vendorid: com.mycompany
+mainmodule: com.mycompany.banzonact2oct8
